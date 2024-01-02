@@ -1,0 +1,4 @@
+// this is the first time I've entered a new branch of coding interview, so let's get starteda
+A/ have some basic structure about DSA and so on
+B/ write random test case and create more things depend on what you've learned in stage A
+C/ And that create soome thing good tho this year, actually learning planning for first project
