@@ -1,0 +1,18 @@
+this stand for some thing great about network security
+1. Noi dung can chu y:
+    I. tong quan ve an ninh mang.
+        - Cac kien thuc co ban ve mang, mo hinh mang duoc su dung hien nay
+        - Cac dac tinh cua thong tin, moi quan he giua cac thuoc tinh cua thong tin
+        - dinh nghia cua CIA, AAA 
+        - Phan tich mo hinh phong thu theo chieu sau
+
+    II. Giai doan tan cong  - nguyen ly phan quyen toi thieu, chia quyen toi da
+        - Cac ky thuat tan cong pho bien
+        - Nguyen ly chung cua cac cuoc tan cong
+        - 
+    III. Tong quan ve cac phan mem doc hai
+    IV. Tong quan ve mat ma hoc va ung dung
+    V. Cac giao thuc bao mat mang
+    VI. Bao mat mang ngoai vi
+    VII. IDS/IPS
+    VIII. Mot so tool
