@@ -8,11 +8,66 @@ this stand for some thing great about network security
 
     II. Giai doan tan cong  - nguyen ly phan quyen toi thieu, chia quyen toi da
         - Cac ky thuat tan cong pho bien
+            - 
         - Nguyen ly chung cua cac cuoc tan cong
-        - 
-    III. Tong quan ve cac phan mem doc hai
+        - nguyen ly chung cua cac ky thuat scanning
+        - phan quyen toi thieu, cap quyen toi da (least Provilege - Privilege separation)
+            - least Privilege: phan quyền tối thiểu
+                - chỉ có một số nhóm người có thể access vào cái này của hệ thống mà thôi
+            - privilege separation: chia quyen toi da (ten tự đặt)
+                - kiểu chia nhỏ một hệ thống ra giuớ kiểm soát các thảm họa có thể xảy ra khi có tấn công (kiểu kẻ tấn công không thể 
+                kiểm soát toàn bộ hệ thống)
+            - các vấn đề liên quan:
+                - Chủ thể (subject) - who: chủ thể của hành động
+                - vật tác động (objection) - what: vật được bảo vệ
+                - Sự tác động (Operation) - How: chủ thể tác động lên vật tác động như thế nào? (trong một môi trường nghiêm ngặt hơn?)
+
+
+
+    III. Tong quan ve cac phan mem doc hai 
+        - phan biet cac loai ma doc duoc su dung nhieu hien nay 
+            - Trojan 
+            - Back Door
+            - Rootkit
+            - Malware
+            - Virus
+            - Worms 
+            - Ramsomeware 
+            
     IV. Tong quan ve mat ma hoc va ung dung
+        - Hieu ro cach hoat dong cuar cac loai ma hoa co dien 
+        - Hieu ro cach thuc hoat dong cua cac loai ma hoa hien dai
+            - DES
+            - AES
+            **** luu y den cac ma tran trong hoan vi o cac buoc lap 
+        - Ma hoa doi xung va ma hoa khong doi xung
+            - ma hoa doi xung
+            - ma hoa bat doi xung
+        - he ma hoa cong khai/ he ma hoa bi mat
+            - he ma hoa bi mat
+            - he ma hoa cong khai
+        - giao thuc trao doi khoa
+            - Diffie Hellmen
+            - RSA
+            - Quan ly khoa
+            *** tinh duoc khoa tu cac giao thuc tren voi cac du lieu cho truoc
+        - Ham bam, cac tieu chuan cua ham bam
+        - Chu ky so - chung thuc so
+        - Mot so ung dung cua mat ma hoc
+            **** doc hieu duojc so do hoat dong cua cac he ma hoa va ung dung cac he ma hoa duoc neu o tren (tu so do viet duoc cong thuc tong quat va nguoc lai)
     V. Cac giao thuc bao mat mang
-    VI. Bao mat mang ngoai vi
+    - Nam ro cac thanh phan, 
+
+    VI. Bao mat mang ngoai vi (firewall)
+        - hieu va phan biet cac vung mang to chuc/ doanh nghiep
+        - firewall, hoat dong o nhung layer nao trong OSI 
+        - nam duoc nhung loai tuong lua tuong ung voi tung layer
+        - cac loai cau hinh tuong lua
+        - loc goi tin, cau truc rule, doc hieu duoc rule
+
     VII. IDS/IPS
+        - 
     VIII. Mot so tool
+
+
+    thầy ới, sau khi bàn bạc kĩ lưỡng với Quân thì học kì này tụi em có nguyện vọng được đăng ký làm đồ án chuyên ngành với thầy, nên tụi em đăng ký đồ án nha thầy
